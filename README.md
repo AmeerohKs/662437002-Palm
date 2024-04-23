@@ -40,9 +40,22 @@ Information taken from (https://www.kaggle.com/datasets/missionjee/car-sales-rep
   - MARKET_NAME
 ![Drop Columns](https://github.com/AmeerohKs/662437002-Palm/blob/main/PD.info().png)
 
+- Filter the name of Product
+Filter only "ผลปาล์มน้ำมันทั้งทะลาย นน.> 15 กก. ขึ้นไป"
+
+- Change the the name of the months
+Change Thai string months to number
+
+- Replace the data name
+Replace the long data name to be shorter
+
 - Data Visualization and Interpretation:
-  - Graphs Plot Relational Graphs
+  - Make a graph of productivity and price
   - Univariate and Bivariate Analysis
+
+Conclusion:
+  - The lowest price of palm is in the 10th month of 2018.
+  - Palm prices were the highest in the 11th month of 2018.
 
 
 
