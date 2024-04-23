@@ -34,6 +34,11 @@ Information taken from (https://www.kaggle.com/datasets/missionjee/car-sales-rep
 ### 3. Data Preparation
 ---
 - Check data missing in table.
+![Data Missing](https://github.com/AmeerohKs/662437002-Palm/blob/main/df.info().png)
+
+- Drop columns:
+  - MARKET_NAME
+
 
 
 
