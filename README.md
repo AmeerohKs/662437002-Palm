@@ -38,6 +38,7 @@ Information taken from (https://www.kaggle.com/datasets/missionjee/car-sales-rep
 
 - Drop columns:
   - MARKET_NAME
+![Drop Columns](https://github.com/AmeerohKs/662437002-Palm/blob/main/PD.info().png)
 
 
 
